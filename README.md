@@ -4,6 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+### `npm install`
+Installs required node modules
+
+
+### `npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9`
+Install Tailwind and its peer-dependencies using npm
+
+### `npm install @craco/craco`
+Install and configure CRACO
+
+
 In the project directory, you can run:
 
 ### `npm start`
